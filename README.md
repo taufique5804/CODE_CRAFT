@@ -22,11 +22,6 @@ Welcome to *Codecraft, a programming challenge organized by **Encypherist! In th
 3. *Q3: Depth-First Search (DFS)*  
    Description: Implement Depth-First Search (DFS) to traverse a graph starting from a given vertex. The graph is represented by an adjacency list.
 
-4. *Q4: Create a Simple Website*  
-   Description: Create a simple website with the following features:
-   - A welcoming message and a brief description.
-   - Navigation links to the homepage, about page, contact page, and blog page.
-
-5. *Q5: Implement a Responsive Social Media Platform*  
+4. *Q4: Implement a Responsive Social Media Platform*  
    Description: Implement a responsive social media platform using HTML, CSS, and JavaScript. Ensure that the UI displays properly on both desktop and mobile devices, with features like swipe gestures for navigation on touch-enabled devices.
 
